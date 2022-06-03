@@ -1,0 +1,27 @@
+.button {
+    background-color: #333;
+    color: rgb(208, 249, 120);
+    padding: ;
+    border-style: groove;
+    border-width: 3px;
+    border-color: black grey grey black;
+    margin: 1px;
+    text-align: center;
+    
+}
+
+.button:hover {
+    background: rgba(255, 101, 41, 0.826);
+    color: rgb(29, 28, 24);
+    border-style: groove;
+    border-width: 5px;
+    border-color: maroon red red maroon;
+}
+
+
+
+div {overflow: auto;}
+
+
+p {overflow: auto;}
+

@@ -1,1 +1,2 @@
 # odin-recipes-css
+This is an update of The Odin Project html linking project to CSS.  Each page now represents very basic CSS ideas in External, Internal, Inline or a hybrid of all 3 at once.  Try to figure out what each page is doing! *I'm not sure if I even know :P *
